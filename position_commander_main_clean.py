@@ -42,6 +42,7 @@ import cflib.crtp
 import math
 from cflib.crazyflie.log import LogConfig
 
+# Global variables
 MIN_DISTANCE = 0.3  # m
 MIN_DISTANCE_FRONT = 0.3  # m
 MIN_DISTANCE_BACK = 0.3  # m
